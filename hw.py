@@ -33,7 +33,7 @@
 #             res = int(input('Input an integer: '))
 #             ans = res ** 2
 #         except:
-#             print('An error occured! Please try again!')
+#             print('An error occured! Please try again! \n')
 #         else:
 #             print(f"Thank you, your number squared is: {ans}")
 #             break
